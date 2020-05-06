@@ -1,6 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
-var slideIndex = 0;
-showSlides();
+document.addEventListener('DOMContentLoaded', function() 
 
   const birthdayTime = document.querySelector('#birthdayTime')
   const countdownContainer = document.querySelector('#countdown')
